@@ -3,7 +3,7 @@
 	<html lang="es">
 	<head>
 		<meta charset="UTF-8">
-		<title>Mapa - Graduaciones Alonso</title>
+		<title>Portafolio - Graduaciones Alonso</title>
 	
 		<!-- seo natural -->
 		<meta name="author" content="Manuel Muñiz">
